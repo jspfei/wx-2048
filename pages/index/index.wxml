@@ -1,4 +1,7 @@
 <!--index.wxml-->
 <view class="container">
+  <view wx:for-items="{{gameList}}" wx:for-index="idx" wx:key="idx" class=''>
+  <button type='primary' disabled="{{disabled}}" bindtap="start{{item}}">{{item}}</button>
+  </view>
   <text class='more'>更多内容，来自自我...</text>
 </view>

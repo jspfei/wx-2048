@@ -1,8 +1,9 @@
 {
   "pages":[
+    "pages/2048/2048",
     "pages/index/index",
-    "pages/logs/logs",
-    "pages/2048/2048"
+    "pages/logs/logs"
+   
   ],
   "window":{
     "backgroundTextStyle":"light",

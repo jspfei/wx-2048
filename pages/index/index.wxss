@@ -4,3 +4,6 @@
   position: fixed;
   bottom: 20px;
 }
+.btn{
+  margin-top: 10rpx;
+}

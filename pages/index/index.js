@@ -5,7 +5,7 @@ const app = getApp()
 var config ={
   data: {
      disable:false,
-     gameList:['2048']
+     gameList: ['2048','waterfall']
   },
   
   onLoad: function () {

@@ -1,7 +1,9 @@
 {
   "pages":[
-    "pages/2048/2048",
+    
     "pages/index/index",
+    "pages/2048/2048",
+    "pages/waterfall/waterfall",
     "pages/logs/logs"
    
   ],
